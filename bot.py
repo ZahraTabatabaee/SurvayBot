@@ -110,7 +110,7 @@ async def start(message: Message):
         await message.reply(
             "سلام!\nلطفاً نظرسنجی‌ مورد نظرت رو انتخاب کن:",
             InlineKeyboard(
-                [("سیلیکون بلی 48", "poll.1")],
+                [("نظرسنجی 1", "poll.1")],
             )
         )
 
