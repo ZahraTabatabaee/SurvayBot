@@ -1,4 +1,3 @@
-```markdown
 # Poll Bot
 
 This repository contains a simple poll bot built for the Bale Messenger platform using the Balethon library. The bot allows users to participate in polls and record their responses, ensuring that each user can only respond once per poll.
