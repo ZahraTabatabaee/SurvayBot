@@ -29,7 +29,7 @@ This repository contains a simple poll bot built for the Bale Messenger platform
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/poll-bot.git
+   git clone https://github.com/ZahraTabatabaee/poll-bot.git
    cd poll-bot
    ```
 
